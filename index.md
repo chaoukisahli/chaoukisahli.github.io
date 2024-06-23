@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/Master_Thesis.pdf)
+[Master's Thesis](/pdf/Master_Thesis.pdf)
 <img src="images/Temperature05visuGood.png?raw=true"/>
 
 ---
