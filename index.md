@@ -5,7 +5,7 @@
 ### About Me
 Graduated with a Master's degree in Energy Physics and Renewable Energies in June 2023,<br/>
 I honed my analytical skills and focused on numerical modeling, particularly in heat transfer and fluid dynamics.
----
+
 ---
 [Master's Thesis](/pdf/Master_Thesis.pdf)
 ## Title: Numerical approach of the natural convection of a Newtonian fluid within a semi-elliptical tank saturated by a porous medium
