@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/Master_Thesis.pdf)
-<img src="images/Temperature05visuGood.jpg?raw=true"/>
+<img src="images/Temperature05visuGood.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
