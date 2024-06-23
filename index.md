@@ -2,11 +2,8 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+### About Me
+Graduated with a Master's degree in Energy Physics and Renewable Energies in June 2023, I honed my analytical skills and focused on numerical modeling, particularly in heat transfer and fluid dynamics.
 ---
 [Master's Thesis](/pdf/Master_Thesis.pdf)
 <img src="images/Temperature05visuGood.png?raw=true"/>
