@@ -1,10 +1,11 @@
 title: Chaouki Sahli # your name (or website title) here
 logo: "/images/Photo ID.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Graduated with a Master's degree in Energy Physics and Renewable Energies in June 2023, I honed my analytical skills and
- focused on numerical modeling, particularly in heat transfer and fluid dynamics.
+ ##Contacts :
+   Email : sahlichaoukioff@gmail.com<a href="sahlichaoukioff@gmail.com">Email Address</a>
   <br><br>
- <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+ <a href="https://www.linkedin.com/in/chaouki-sahli/">My LinkedIn Profile</a> 
+ <a href="https://github.com/chaoukisahli">My Github Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
