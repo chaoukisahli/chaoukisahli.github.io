@@ -4,10 +4,13 @@
 
 ### About Me
 Graduated with a Master's degree in Energy Physics and Renewable Energies in June 2023, I honed my analytical skills and focused on numerical modeling, particularly in heat transfer and fluid dynamics.
+---
+## Current Project & Interests
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Master's Thesis](/pdf/Master_Thesis.pdf)
-## Title: Numerical approach of the natural convection of a Newtonian fluid within a semi-elliptical tank saturated by a porous medium
+
+## Master's thesis: Numerical approach of the natural convection of a Newtonian fluid within a semi-elliptical tank saturated by a porous medium
 We aim to numerically study the natural convection of an incompressible Newtonian
 fluid, under laminar and steady-state conditions, within a semi-elliptical tank saturated
 with a porous medium. The internal and external walls of the tank are maintained at
@@ -19,19 +22,12 @@ of isotherms and streamlines, are presented and interpreted while considering
 geometric factors and the modified Rayleigh-Darcy number.
 <img src="images/Temperature05visuGood.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Attached Files
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Master's Thesis](/pdf/Master_Thesis.pdf)
 
 ---
 
