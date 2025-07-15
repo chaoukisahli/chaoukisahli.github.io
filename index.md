@@ -2,8 +2,7 @@
 
 ---
 
-### About Me
-Graduated with a Master's degree in Energy Physics and Renewable Energies in June 2023, I honed my analytical skills and focused on numerical modeling, particularly in heat transfer and fluid dynamics.
+
 ---
 ## Career Aspirations
 My aspiration is to leverage my recent Master's degree in Energy Physics and Renewable Energies to specialize in advanced computational modeling. Having acquired proficiency in programming languages like Fortran, Python, and Matlab, I am eager to contribute to research that optimizes energy systems and enhances environmental sustainability. My goal is to apply these skills to develop innovative solutions that address pressing energy challenges and support the transition towards a sustainable future.
